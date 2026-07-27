@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+.local-only-build/
+*.log
+.env*
+deployment-audit/used-assets-backup-*/
+
+# Keep the original portfolio library local. The public site uses optimized
+# images plus the two videos explicitly force-added to the repository.
+public/portfolio/

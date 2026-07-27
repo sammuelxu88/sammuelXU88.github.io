@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "build:public": "node scripts/build-github-pages.mjs",
+    "build:pages": "node scripts/build-github-pages.mjs",
+    "optimize:media": "node scripts/optimize-publish-assets.mjs",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^9.6.1",
+    "next": "16.2.10",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "three": "^0.185.1"
+  }
+}

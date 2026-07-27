@@ -1,0 +1,365 @@
+{
+  "assets": [
+    {
+      "contentType": "font/woff",
+      "id": "c734da0f14887fe1",
+      "kind": "font",
+      "name": "HelveticaNowDisplay-Bold.woff",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\c734da0f14887fe1.woff",
+      "url": "https://www.phantom.land/fonts/HelveticaNowDisplay-Bold.woff"
+    },
+    {
+      "contentType": "font/woff",
+      "id": "f1b456f8c66aeaef",
+      "kind": "font",
+      "name": "HelveticaNowDisplay-Medium.woff",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\f1b456f8c66aeaef.woff",
+      "url": "https://www.phantom.land/fonts/HelveticaNowDisplay-Medium.woff"
+    },
+    {
+      "contentType": "font/woff",
+      "id": "b7f0b3a2c0a1528e",
+      "kind": "font",
+      "name": "HelveticaNowDisplay-Regular.woff",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\b7f0b3a2c0a1528e.woff",
+      "url": "https://www.phantom.land/fonts/HelveticaNowDisplay-Regular.woff"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "081620fc3cab146e",
+      "kind": "image",
+      "name": "particle.jpg",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\081620fc3cab146e.jpg",
+      "url": "https://www.phantom.land/assets/images/particle.jpg"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "ed6ad2a5bea6049a",
+      "kind": "image",
+      "name": "2.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\ed6ad2a5bea6049a.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set30/2.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "a90a717797ce2391",
+      "kind": "image",
+      "name": "1.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\a90a717797ce2391.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set29/1.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "bcae813b77be7a5c",
+      "kind": "image",
+      "name": "3.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\bcae813b77be7a5c.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set33/3.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "632165fad4608fa8",
+      "kind": "image",
+      "name": "0.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\632165fad4608fa8.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set23/0.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "9328f7cb30479dd4",
+      "kind": "image",
+      "name": "5.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\9328f7cb30479dd4.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set34/5.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c8edf5c1d8788245",
+      "kind": "image",
+      "name": "7.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\c8edf5c1d8788245.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set36/7.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "529ab08e71192740",
+      "kind": "image",
+      "name": "4.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\529ab08e71192740.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set54/4.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "9a5aac53c143d338",
+      "kind": "image",
+      "name": "6.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\9a5aac53c143d338.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set52/6.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c4d1ac0b8e80e151",
+      "kind": "image",
+      "name": "8.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\c4d1ac0b8e80e151.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set34/8.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "70c26f39d02dbb8a",
+      "kind": "image",
+      "name": "9.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\70c26f39d02dbb8a.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set9/9.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "9817306bd1f15a42",
+      "kind": "image",
+      "name": "10.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\9817306bd1f15a42.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set6/10.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "a6469d7d5d3975df",
+      "kind": "image",
+      "name": "11.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\a6469d7d5d3975df.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set11/11.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "af9c9e18b1eea75e",
+      "kind": "image",
+      "name": "12.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\af9c9e18b1eea75e.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set49/12.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "52450e2a5b6f1b94",
+      "kind": "image",
+      "name": "20.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\52450e2a5b6f1b94.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set10/20.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "dee4c2d9bcf9be69",
+      "kind": "image",
+      "name": "18.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\dee4c2d9bcf9be69.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set4/18.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "1a08df80e2db59fa",
+      "kind": "image",
+      "name": "15.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\1a08df80e2db59fa.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set31/15.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "dfcf26dfbc3b40f4",
+      "kind": "image",
+      "name": "13.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\dfcf26dfbc3b40f4.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set14/13.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "ef0abf912c8a787b",
+      "kind": "image",
+      "name": "14.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\ef0abf912c8a787b.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set35/14.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "3cd9823c27cfe4b0",
+      "kind": "image",
+      "name": "19.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\3cd9823c27cfe4b0.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set36/19.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "bfb87a5488f53df4",
+      "kind": "image",
+      "name": "16.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\bfb87a5488f53df4.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set11/16.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "953f5a3bceb36ace",
+      "kind": "image",
+      "name": "17.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\953f5a3bceb36ace.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set44/17.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "fcd3092a48c933ae",
+      "kind": "image",
+      "name": "22.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\fcd3092a48c933ae.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set32/22.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c701075e1c9f8c3d",
+      "kind": "image",
+      "name": "24.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\c701075e1c9f8c3d.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set38/24.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "0adba9fcbd3f6ae6",
+      "kind": "image",
+      "name": "21.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\0adba9fcbd3f6ae6.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set33/21.webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "d2617d65cc626fec",
+      "kind": "image",
+      "name": "23.webp",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\d2617d65cc626fec.webp",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/controlnet-images/webp/set48/23.webp"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b9657d3fc771d9dd",
+      "kind": "image",
+      "name": "media-rgb-atlas-0.jpg",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\b9657d3fc771d9dd.jpg",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/workgridAssets/production/media-rgb-atlas-0.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1f62ae6bde76482b",
+      "kind": "image",
+      "name": "media-alpha-atlas-0.jpg",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\1f62ae6bde76482b.jpg",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/workgridAssets/production/media-alpha-atlas-0.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "4d18b45072a79fe8",
+      "kind": "image",
+      "name": "label-atlas-0.png",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\4d18b45072a79fe8.png",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/workgridAssets/production/label-atlas-0.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "d1f13d3b079ce749",
+      "kind": "image",
+      "name": "media-rgb-atlas-1.jpg",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\d1f13d3b079ce749.jpg",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/workgridAssets/production/media-rgb-atlas-1.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "5b1828976896fc6e",
+      "kind": "image",
+      "name": "media-alpha-atlas-1.jpg",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\5b1828976896fc6e.jpg",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/workgridAssets/production/media-alpha-atlas-1.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "96b70a95beddad43",
+      "kind": "image",
+      "name": "label-atlas-1.png",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\96b70a95beddad43.png",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/workgridAssets/production/label-atlas-1.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b7ff99a21146f711",
+      "kind": "image",
+      "name": "media-alpha-atlas-2.jpg",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\b7ff99a21146f711.jpg",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/workgridAssets/production/media-alpha-atlas-2.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "f4f79fe453513c76",
+      "kind": "image",
+      "name": "label-atlas-2.png",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\f4f79fe453513c76.png",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/workgridAssets/production/label-atlas-2.png"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "24cb9c5b672e155c",
+      "kind": "image",
+      "name": "Z5oVh5bqstJ99_In_phantom.svg",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\24cb9c5b672e155c.svg",
+      "url": "https://phantom-land.cdn.prismic.io/phantom-land/Z5oVh5bqstJ99_In_phantom.svg?fit=max&w=96"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "38e23cd0c576ab83",
+      "kind": "image",
+      "name": "svg-1",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\38e23cd0c576ab83.svg",
+      "url": "inline-svg:38e23cd0c576ab83"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9f77df67da2231b2",
+      "kind": "image",
+      "name": "svg-2",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\9f77df67da2231b2.svg",
+      "url": "inline-svg:9f77df67da2231b2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "33f5cb7f6d8861b7",
+      "kind": "image",
+      "name": "svg-3",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\33f5cb7f6d8861b7.svg",
+      "url": "inline-svg:33f5cb7f6d8861b7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "123ecee880261eb5",
+      "kind": "image",
+      "name": "svg-4",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\123ecee880261eb5.svg",
+      "url": "inline-svg:123ecee880261eb5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8f03b85b6dbb591a",
+      "kind": "image",
+      "name": "moon",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\8f03b85b6dbb591a.svg",
+      "url": "inline-svg:8f03b85b6dbb591a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "49b526baab832be4",
+      "kind": "image",
+      "name": "svg-6",
+      "path": "C:\\Users\\MEISHA~1\\AppData\\Local\\Temp\\browser-use\\assets\\a1cd23b3-b256-4026-aa51-5efd8c260123\\49b526baab832be4.svg",
+      "url": "inline-svg:49b526baab832be4"
+    }
+  ],
+  "failures": [
+    {
+      "contentType": null,
+      "id": "e227cfa717301264",
+      "name": "media-rgb-atlas-2.mp4",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://static.cdn.prismic.io/prismic.js?new=true&repo=phantom-land:1:12898\n    at hH (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://phantom-ldn-website-videos.storage.googleapis.com/workgridAssets/production/media-rgb-atlas-2.mp4"
+    }
+  ]
+}

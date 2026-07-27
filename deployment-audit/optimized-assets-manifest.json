@@ -1,0 +1,1297 @@
+[
+  {
+    "source": "/portfolio/organized/3c-digital-commerce-platform/cover.jpg",
+    "output": "/optimized/covers/3c-digital-commerce-platform.webp",
+    "role": "cover",
+    "before": 406815,
+    "after": 56180
+  },
+  {
+    "source": "/portfolio/organized/3c-digital-commerce-platform/image-01.jpg",
+    "output": "/optimized/projects/3c-digital-commerce-platform/image-02.webp",
+    "role": "detail",
+    "before": 19060376,
+    "after": 93302
+  },
+  {
+    "source": "/portfolio/organized/c4d-product-poster-series/cover.jpg",
+    "output": "/optimized/covers/c4d-product-poster-series.webp",
+    "role": "cover",
+    "before": 330080,
+    "after": 34894
+  },
+  {
+    "source": "/portfolio/organized/c4d-product-poster-series/image-03.jpg",
+    "output": "/optimized/projects/c4d-product-poster-series/image-04.webp",
+    "role": "detail",
+    "before": 2557205,
+    "after": 187526
+  },
+  {
+    "source": "/portfolio/organized/c4d-product-poster-series/image-02.jpg",
+    "output": "/optimized/projects/c4d-product-poster-series/image-03.webp",
+    "role": "detail",
+    "before": 4595741,
+    "after": 115370
+  },
+  {
+    "source": "/portfolio/organized/c4d-product-poster-series/image-04.png",
+    "output": "/optimized/projects/c4d-product-poster-series/image-05.webp",
+    "role": "detail",
+    "before": 8445361,
+    "after": 230838
+  },
+  {
+    "source": "/portfolio/organized/c4d-product-poster-series/image-01.png",
+    "output": "/optimized/projects/c4d-product-poster-series/image-02.webp",
+    "role": "detail",
+    "before": 6200259,
+    "after": 584866
+  },
+  {
+    "source": "/portfolio/organized/brand-corporate-website/cover.jpg",
+    "output": "/optimized/covers/brand-corporate-website.webp",
+    "role": "cover",
+    "before": 431917,
+    "after": 46356
+  },
+  {
+    "source": "/portfolio/organized/brand-corporate-website/image-01.jpg",
+    "output": "/optimized/projects/brand-corporate-website/image-02.webp",
+    "role": "detail",
+    "before": 19007356,
+    "after": 79002
+  },
+  {
+    "source": "/portfolio/uploads/wancheng-ev-charging-app/1784879197990-------APP----cover.png",
+    "output": "/optimized/covers/wancheng-ev-charging-app.webp",
+    "role": "cover",
+    "before": 1402398,
+    "after": 71468
+  },
+  {
+    "source": "/portfolio/organized/wancheng-ev-charging-app/image-01.jpg",
+    "output": "/optimized/projects/wancheng-ev-charging-app/image-01.webp",
+    "role": "detail",
+    "before": 1291226,
+    "after": 159730
+  },
+  {
+    "source": "/portfolio/organized/easter-sale-campaign/cover.jpg",
+    "output": "/optimized/covers/easter-sale-campaign.webp",
+    "role": "cover",
+    "before": 642911,
+    "after": 102322
+  },
+  {
+    "source": "/portfolio/organized/easter-sale-campaign/image-02.jpg",
+    "output": "/optimized/projects/easter-sale-campaign/image-03.webp",
+    "role": "detail",
+    "before": 277956,
+    "after": 46042
+  },
+  {
+    "source": "/portfolio/organized/easter-sale-campaign/image-01.jpg",
+    "output": "/optimized/projects/easter-sale-campaign/image-02.webp",
+    "role": "detail",
+    "before": 366884,
+    "after": 61628
+  },
+  {
+    "source": "/portfolio/organized/easter-sale-campaign/image-03.png",
+    "output": "/optimized/projects/easter-sale-campaign/image-04.webp",
+    "role": "detail",
+    "before": 812696,
+    "after": 136476
+  },
+  {
+    "source": "/portfolio/organized/easter-sale-campaign/image-04.jpg",
+    "output": "/optimized/projects/easter-sale-campaign/image-05.webp",
+    "role": "detail",
+    "before": 3741648,
+    "after": 230574
+  },
+  {
+    "source": "/portfolio/organized/edm-campaign-two/cover.jpg",
+    "output": "/optimized/covers/edm-campaign-two.webp",
+    "role": "cover",
+    "before": 780650,
+    "after": 135454
+  },
+  {
+    "source": "/portfolio/organized/edm-campaign-two/image-01.jpg",
+    "output": "/optimized/projects/edm-campaign-two/image-02.webp",
+    "role": "detail",
+    "before": 4606150,
+    "after": 195374
+  },
+  {
+    "source": "/portfolio/organized/ev-charging-terminal-ui/cover.jpg",
+    "output": "/optimized/covers/ev-charging-terminal-ui.webp",
+    "role": "cover",
+    "before": 809502,
+    "after": 117568
+  },
+  {
+    "source": "/portfolio/organized/ev-charging-terminal-ui/image-01.jpg",
+    "output": "/optimized/projects/ev-charging-terminal-ui/image-02.webp",
+    "role": "detail",
+    "before": 4925945,
+    "after": 80252
+  },
+  {
+    "source": "/portfolio/organized/asus-gaming-campaign/cover.jpg",
+    "output": "/optimized/covers/asus-gaming-campaign.webp",
+    "role": "cover",
+    "before": 628894,
+    "after": 93586
+  },
+  {
+    "source": "/portfolio/organized/asus-gaming-campaign/image-02.jpg",
+    "output": "/optimized/projects/asus-gaming-campaign/image-03.webp",
+    "role": "detail",
+    "before": 533949,
+    "after": 79184
+  },
+  {
+    "source": "/portfolio/organized/asus-gaming-campaign/image-01.jpg",
+    "output": "/optimized/projects/asus-gaming-campaign/image-02.webp",
+    "role": "detail",
+    "before": 624928,
+    "after": 91112
+  },
+  {
+    "source": "/portfolio/organized/travel-commerce-detail/cover.jpg",
+    "output": "/optimized/covers/travel-commerce-detail.webp",
+    "role": "cover",
+    "before": 929294,
+    "after": 200414
+  },
+  {
+    "source": "/portfolio/organized/travel-commerce-detail/image-01.jpg",
+    "output": "/optimized/projects/travel-commerce-detail/image-02.webp",
+    "role": "detail",
+    "before": 4577876,
+    "after": 94816
+  },
+  {
+    "source": "/portfolio/organized/restaurant-brand-identity/cover.jpg",
+    "output": "/optimized/covers/restaurant-brand-identity.webp",
+    "role": "cover",
+    "before": 1722968,
+    "after": 79888
+  },
+  {
+    "source": "/portfolio/organized/restaurant-brand-identity/image-03.png",
+    "output": "/optimized/projects/restaurant-brand-identity/image-04.webp",
+    "role": "detail",
+    "before": 1708839,
+    "after": 65588
+  },
+  {
+    "source": "/portfolio/organized/restaurant-brand-identity/image-02.png",
+    "output": "/optimized/projects/restaurant-brand-identity/image-03.webp",
+    "role": "detail",
+    "before": 1960611,
+    "after": 88344
+  },
+  {
+    "source": "/portfolio/organized/restaurant-brand-identity/image-05.png",
+    "output": "/optimized/projects/restaurant-brand-identity/image-06.webp",
+    "role": "detail",
+    "before": 1885256,
+    "after": 87862
+  },
+  {
+    "source": "/portfolio/organized/restaurant-brand-identity/image-01.png",
+    "output": "/optimized/projects/restaurant-brand-identity/image-02.webp",
+    "role": "detail",
+    "before": 1841101,
+    "after": 95444
+  },
+  {
+    "source": "/portfolio/organized/restaurant-brand-identity/image-04.png",
+    "output": "/optimized/projects/restaurant-brand-identity/image-05.webp",
+    "role": "detail",
+    "before": 1830150,
+    "after": 61228
+  },
+  {
+    "source": "/portfolio/organized/restaurant-brand-identity/image-08.png",
+    "output": "/optimized/projects/restaurant-brand-identity/image-09.webp",
+    "role": "detail",
+    "before": 2041792,
+    "after": 90526
+  },
+  {
+    "source": "/portfolio/organized/restaurant-brand-identity/image-06.png",
+    "output": "/optimized/projects/restaurant-brand-identity/image-07.webp",
+    "role": "detail",
+    "before": 2216094,
+    "after": 130620
+  },
+  {
+    "source": "/portfolio/organized/restaurant-brand-identity/image-07.png",
+    "output": "/optimized/projects/restaurant-brand-identity/image-08.webp",
+    "role": "detail",
+    "before": 2282623,
+    "after": 146440
+  },
+  {
+    "source": "/portfolio/organized/corporate-culture-wall/cover.jpg",
+    "output": "/optimized/covers/corporate-culture-wall.webp",
+    "role": "cover",
+    "before": 499128,
+    "after": 70108
+  },
+  {
+    "source": "/portfolio/organized/corporate-culture-wall/image-02.jpg",
+    "output": "/optimized/projects/corporate-culture-wall/image-03.webp",
+    "role": "detail",
+    "before": 2145992,
+    "after": 109486
+  },
+  {
+    "source": "/portfolio/organized/corporate-culture-wall/image-01.jpg",
+    "output": "/optimized/projects/corporate-culture-wall/image-02.webp",
+    "role": "detail",
+    "before": 1773365,
+    "after": 91078
+  },
+  {
+    "source": "/portfolio/organized/chongqing-travel-vlog/cover.jpg",
+    "output": "/optimized/covers/chongqing-travel-vlog.webp",
+    "role": "cover",
+    "before": 950663,
+    "after": 208950
+  },
+  {
+    "source": "/portfolio/uploads/product-catalogue-2025/1784879259063-25-----sample-cover.png",
+    "output": "/optimized/covers/product-catalogue-2025.webp",
+    "role": "cover",
+    "before": 2215885,
+    "after": 104356
+  },
+  {
+    "source": "/portfolio/organized/product-catalogue-2025/image-01.jpg",
+    "output": "/optimized/projects/product-catalogue-2025/image-01.webp",
+    "role": "detail",
+    "before": 80349,
+    "after": 56018
+  },
+  {
+    "source": "/portfolio/organized/product-catalogue-2025/image-02.jpg",
+    "output": "/optimized/projects/product-catalogue-2025/image-02.webp",
+    "role": "detail",
+    "before": 141913,
+    "after": 100344
+  },
+  {
+    "source": "/portfolio/organized/product-catalogue-2025/image-05.jpg",
+    "output": "/optimized/projects/product-catalogue-2025/image-05.webp",
+    "role": "detail",
+    "before": 174070,
+    "after": 131750
+  },
+  {
+    "source": "/portfolio/organized/product-catalogue-2025/image-03.jpg",
+    "output": "/optimized/projects/product-catalogue-2025/image-03.webp",
+    "role": "detail",
+    "before": 211660,
+    "after": 177072
+  },
+  {
+    "source": "/portfolio/organized/product-catalogue-2025/image-06.jpg",
+    "output": "/optimized/projects/product-catalogue-2025/image-06.webp",
+    "role": "detail",
+    "before": 137657,
+    "after": 94214
+  },
+  {
+    "source": "/portfolio/organized/product-catalogue-2025/image-08.jpg",
+    "output": "/optimized/projects/product-catalogue-2025/image-08.webp",
+    "role": "detail",
+    "before": 139705,
+    "after": 88164
+  },
+  {
+    "source": "/portfolio/organized/product-catalogue-2025/image-04.jpg",
+    "output": "/optimized/projects/product-catalogue-2025/image-04.webp",
+    "role": "detail",
+    "before": 204205,
+    "after": 138502
+  },
+  {
+    "source": "/portfolio/organized/product-catalogue-2025/image-10.jpg",
+    "output": "/optimized/projects/product-catalogue-2025/image-10.webp",
+    "role": "detail",
+    "before": 149421,
+    "after": 79020
+  },
+  {
+    "source": "/portfolio/organized/product-catalogue-2025/image-07.jpg",
+    "output": "/optimized/projects/product-catalogue-2025/image-07.webp",
+    "role": "detail",
+    "before": 138614,
+    "after": 88044
+  },
+  {
+    "source": "/portfolio/organized/product-catalogue-2025/image-09.jpg",
+    "output": "/optimized/projects/product-catalogue-2025/image-09.webp",
+    "role": "detail",
+    "before": 153645,
+    "after": 102380
+  },
+  {
+    "source": "/portfolio/organized/product-catalogue-2025/image-12.jpg",
+    "output": "/optimized/projects/product-catalogue-2025/image-12.webp",
+    "role": "detail",
+    "before": 131719,
+    "after": 85308
+  },
+  {
+    "source": "/portfolio/organized/product-catalogue-2025/image-11.jpg",
+    "output": "/optimized/projects/product-catalogue-2025/image-11.webp",
+    "role": "detail",
+    "before": 200326,
+    "after": 157402
+  },
+  {
+    "source": "/portfolio/organized/product-catalogue-2025/image-15.jpg",
+    "output": "/optimized/projects/product-catalogue-2025/image-15.webp",
+    "role": "detail",
+    "before": 38595,
+    "after": 21040
+  },
+  {
+    "source": "/portfolio/organized/product-catalogue-2025/image-13.jpg",
+    "output": "/optimized/projects/product-catalogue-2025/image-13.webp",
+    "role": "detail",
+    "before": 167128,
+    "after": 128408
+  },
+  {
+    "source": "/portfolio/organized/product-catalogue-2025/image-14.jpg",
+    "output": "/optimized/projects/product-catalogue-2025/image-14.webp",
+    "role": "detail",
+    "before": 172165,
+    "after": 134018
+  },
+  {
+    "source": "/portfolio/organized/gigabyte-bundle-campaign/cover.jpg",
+    "output": "/optimized/covers/gigabyte-bundle-campaign.webp",
+    "role": "cover",
+    "before": 812030,
+    "after": 114206
+  },
+  {
+    "source": "/portfolio/organized/gigabyte-bundle-campaign/image-01.jpg",
+    "output": "/optimized/projects/gigabyte-bundle-campaign/image-02.webp",
+    "role": "detail",
+    "before": 120867,
+    "after": 18148
+  },
+  {
+    "source": "/portfolio/organized/gigabyte-bundle-campaign/image-02.jpg",
+    "output": "/optimized/projects/gigabyte-bundle-campaign/image-03.webp",
+    "role": "detail",
+    "before": 275927,
+    "after": 42578
+  },
+  {
+    "source": "/portfolio/organized/new-year-brand-poster-series/cover.jpg",
+    "output": "/optimized/covers/new-year-brand-poster-series.webp",
+    "role": "cover",
+    "before": 2132648,
+    "after": 108142
+  },
+  {
+    "source": "/portfolio/organized/new-year-brand-poster-series/image-02.jpg",
+    "output": "/optimized/projects/new-year-brand-poster-series/image-03.webp",
+    "role": "detail",
+    "before": 360997,
+    "after": 56374
+  },
+  {
+    "source": "/portfolio/organized/new-year-brand-poster-series/image-01.jpg",
+    "output": "/optimized/projects/new-year-brand-poster-series/image-02.webp",
+    "role": "detail",
+    "before": 437551,
+    "after": 60750
+  },
+  {
+    "source": "/portfolio/organized/new-year-brand-poster-series/image-04.jpg",
+    "output": "/optimized/projects/new-year-brand-poster-series/image-05.webp",
+    "role": "detail",
+    "before": 699618,
+    "after": 72068
+  },
+  {
+    "source": "/portfolio/organized/new-year-brand-poster-series/image-03.jpg",
+    "output": "/optimized/projects/new-year-brand-poster-series/image-04.webp",
+    "role": "detail",
+    "before": 839838,
+    "after": 161296
+  },
+  {
+    "source": "/portfolio/organized/new-year-brand-poster-series/image-06.jpg",
+    "output": "/optimized/projects/new-year-brand-poster-series/image-07.webp",
+    "role": "detail",
+    "before": 426401,
+    "after": 50458
+  },
+  {
+    "source": "/portfolio/organized/new-year-brand-poster-series/image-05.jpg",
+    "output": "/optimized/projects/new-year-brand-poster-series/image-06.webp",
+    "role": "detail",
+    "before": 651024,
+    "after": 97176
+  },
+  {
+    "source": "/portfolio/organized/new-year-brand-poster-series/image-07.jpg",
+    "output": "/optimized/projects/new-year-brand-poster-series/image-08.webp",
+    "role": "detail",
+    "before": 626114,
+    "after": 68344
+  },
+  {
+    "source": "/portfolio/organized/new-year-brand-poster-series/image-09.jpg",
+    "output": "/optimized/projects/new-year-brand-poster-series/image-10.webp",
+    "role": "detail",
+    "before": 721078,
+    "after": 70746
+  },
+  {
+    "source": "/portfolio/organized/new-year-brand-poster-series/image-08.jpg",
+    "output": "/optimized/projects/new-year-brand-poster-series/image-09.webp",
+    "role": "detail",
+    "before": 1628004,
+    "after": 170064
+  },
+  {
+    "source": "/portfolio/uploads/english-product-catalogue/1784879295578---------cover.png",
+    "output": "/optimized/covers/english-product-catalogue.webp",
+    "role": "cover",
+    "before": 1165835,
+    "after": 41780
+  },
+  {
+    "source": "/portfolio/organized/english-product-catalogue/image-01.jpg",
+    "output": "/optimized/projects/english-product-catalogue/image-01.webp",
+    "role": "detail",
+    "before": 1459685,
+    "after": 85330
+  },
+  {
+    "source": "/portfolio/organized/english-product-catalogue/image-02.jpg",
+    "output": "/optimized/projects/english-product-catalogue/image-02.webp",
+    "role": "detail",
+    "before": 5011696,
+    "after": 270916
+  },
+  {
+    "source": "/portfolio/organized/english-product-catalogue/image-05.jpg",
+    "output": "/optimized/projects/english-product-catalogue/image-05.webp",
+    "role": "detail",
+    "before": 4225313,
+    "after": 264200
+  },
+  {
+    "source": "/portfolio/organized/english-product-catalogue/image-03.jpg",
+    "output": "/optimized/projects/english-product-catalogue/image-03.webp",
+    "role": "detail",
+    "before": 5079797,
+    "after": 216028
+  },
+  {
+    "source": "/portfolio/organized/english-product-catalogue/image-08.jpg",
+    "output": "/optimized/projects/english-product-catalogue/image-08.webp",
+    "role": "detail",
+    "before": 955517,
+    "after": 48300
+  },
+  {
+    "source": "/portfolio/organized/english-product-catalogue/image-06.jpg",
+    "output": "/optimized/projects/english-product-catalogue/image-06.webp",
+    "role": "detail",
+    "before": 6459425,
+    "after": 177732
+  },
+  {
+    "source": "/portfolio/organized/english-product-catalogue/image-07.jpg",
+    "output": "/optimized/projects/english-product-catalogue/image-07.webp",
+    "role": "detail",
+    "before": 3485637,
+    "after": 192106
+  },
+  {
+    "source": "/portfolio/organized/english-product-catalogue/image-04.jpg",
+    "output": "/optimized/projects/english-product-catalogue/image-04.webp",
+    "role": "detail",
+    "before": 4225313,
+    "after": 264200
+  },
+  {
+    "source": "/portfolio/organized/furniture-catalogue/cover.jpg",
+    "output": "/optimized/covers/furniture-catalogue.webp",
+    "role": "cover",
+    "before": 968399,
+    "after": 182392
+  },
+  {
+    "source": "/portfolio/organized/furniture-catalogue/image-01.jpg",
+    "output": "/optimized/projects/furniture-catalogue/image-02.webp",
+    "role": "detail",
+    "before": 78031414,
+    "after": 446216
+  },
+  {
+    "source": "/portfolio/organized/shanghai-exhibition-campaign/cover.jpg",
+    "output": "/optimized/covers/shanghai-exhibition-campaign.webp",
+    "role": "cover",
+    "before": 1622957,
+    "after": 71240
+  },
+  {
+    "source": "/portfolio/organized/shanghai-exhibition-campaign/image-02.jpg",
+    "output": "/optimized/projects/shanghai-exhibition-campaign/image-03.webp",
+    "role": "detail",
+    "before": 301969,
+    "after": 38020
+  },
+  {
+    "source": "/portfolio/organized/shanghai-exhibition-campaign/image-03.jpg",
+    "output": "/optimized/projects/shanghai-exhibition-campaign/image-04.webp",
+    "role": "detail",
+    "before": 335769,
+    "after": 46876
+  },
+  {
+    "source": "/portfolio/organized/shanghai-exhibition-campaign/image-01.jpg",
+    "output": "/optimized/projects/shanghai-exhibition-campaign/image-02.webp",
+    "role": "detail",
+    "before": 406206,
+    "after": 48668
+  },
+  {
+    "source": "/portfolio/organized/shanghai-exhibition-campaign/image-04.jpg",
+    "output": "/optimized/projects/shanghai-exhibition-campaign/image-05.webp",
+    "role": "detail",
+    "before": 407116,
+    "after": 60344
+  },
+  {
+    "source": "/portfolio/organized/shanghai-exhibition-campaign/image-05.jpg",
+    "output": "/optimized/projects/shanghai-exhibition-campaign/image-06.webp",
+    "role": "detail",
+    "before": 408195,
+    "after": 59576
+  },
+  {
+    "source": "/portfolio/organized/shanghai-exhibition-campaign/image-06.jpg",
+    "output": "/optimized/projects/shanghai-exhibition-campaign/image-07.webp",
+    "role": "detail",
+    "before": 401020,
+    "after": 57974
+  },
+  {
+    "source": "/portfolio/organized/ai-computing-platform/cover.jpg",
+    "output": "/optimized/covers/ai-computing-platform.webp",
+    "role": "cover",
+    "before": 353960,
+    "after": 44764
+  },
+  {
+    "source": "/portfolio/organized/ai-computing-platform/image-01.jpg",
+    "output": "/optimized/projects/ai-computing-platform/image-02.webp",
+    "role": "detail",
+    "before": 21966035,
+    "after": 76908
+  },
+  {
+    "source": "/portfolio/organized/guoyu-technology-visual-identity/cover.jpg",
+    "output": "/optimized/covers/guoyu-technology-visual-identity.webp",
+    "role": "cover",
+    "before": 712908,
+    "after": 86524
+  },
+  {
+    "source": "/portfolio/organized/guoyu-technology-visual-identity/image-01.png",
+    "output": "/optimized/projects/guoyu-technology-visual-identity/image-02.webp",
+    "role": "detail",
+    "before": 1699166,
+    "after": 55308
+  },
+  {
+    "source": "/portfolio/organized/guoyu-technology-visual-identity/image-03.png",
+    "output": "/optimized/projects/guoyu-technology-visual-identity/image-04.webp",
+    "role": "detail",
+    "before": 1737572,
+    "after": 60658
+  },
+  {
+    "source": "/portfolio/organized/guoyu-technology-visual-identity/image-02.png",
+    "output": "/optimized/projects/guoyu-technology-visual-identity/image-03.webp",
+    "role": "detail",
+    "before": 1911114,
+    "after": 72734
+  },
+  {
+    "source": "/portfolio/organized/guoyu-technology-visual-identity/image-04.png",
+    "output": "/optimized/projects/guoyu-technology-visual-identity/image-05.webp",
+    "role": "detail",
+    "before": 2034668,
+    "after": 83632
+  },
+  {
+    "source": "/portfolio/organized/guoyu-technology-visual-identity/image-06.png",
+    "output": "/optimized/projects/guoyu-technology-visual-identity/image-07.webp",
+    "role": "detail",
+    "before": 1593606,
+    "after": 47016
+  },
+  {
+    "source": "/portfolio/organized/guoyu-technology-visual-identity/image-05.png",
+    "output": "/optimized/projects/guoyu-technology-visual-identity/image-06.webp",
+    "role": "detail",
+    "before": 1743060,
+    "after": 67306
+  },
+  {
+    "source": "/portfolio/organized/guoyu-technology-visual-identity/image-07.png",
+    "output": "/optimized/projects/guoyu-technology-visual-identity/image-08.webp",
+    "role": "detail",
+    "before": 1968363,
+    "after": 75586
+  },
+  {
+    "source": "/portfolio/organized/ev-charging-station-3d/cover.jpg",
+    "output": "/optimized/covers/ev-charging-station-3d.webp",
+    "role": "cover",
+    "before": 738028,
+    "after": 102192
+  },
+  {
+    "source": "/portfolio/organized/ev-charging-station-3d/image-03.jpg",
+    "output": "/optimized/projects/ev-charging-station-3d/image-04.webp",
+    "role": "detail",
+    "before": 719476,
+    "after": 145126
+  },
+  {
+    "source": "/portfolio/organized/ev-charging-station-3d/image-01.jpg",
+    "output": "/optimized/projects/ev-charging-station-3d/image-02.webp",
+    "role": "detail",
+    "before": 3827325,
+    "after": 140880
+  },
+  {
+    "source": "/portfolio/organized/ev-charging-station-3d/image-02.jpg",
+    "output": "/optimized/projects/ev-charging-station-3d/image-03.webp",
+    "role": "detail",
+    "before": 1273422,
+    "after": 289858
+  },
+  {
+    "source": "/portfolio/organized/ev-charging-station-3d/image-04.jpg",
+    "output": "/optimized/projects/ev-charging-station-3d/image-05.webp",
+    "role": "detail",
+    "before": 3535779,
+    "after": 419530
+  },
+  {
+    "source": "/portfolio/organized/ev-charging-station-3d/image-05.jpg",
+    "output": "/optimized/projects/ev-charging-station-3d/image-06.webp",
+    "role": "detail",
+    "before": 3829989,
+    "after": 403474
+  },
+  {
+    "source": "/portfolio/organized/travel-planning-app/cover.jpg",
+    "output": "/optimized/covers/travel-planning-app.webp",
+    "role": "cover",
+    "before": 561302,
+    "after": 95774
+  },
+  {
+    "source": "/portfolio/organized/travel-planning-app/image-01.jpg",
+    "output": "/optimized/projects/travel-planning-app/image-02.webp",
+    "role": "detail",
+    "before": 615908,
+    "after": 174610
+  },
+  {
+    "source": "/portfolio/organized/travel-planning-app/image-02.jpg",
+    "output": "/optimized/projects/travel-planning-app/image-03.webp",
+    "role": "detail",
+    "before": 3055183,
+    "after": 208916
+  },
+  {
+    "source": "/portfolio/organized/ev-charger-product-detail/cover.jpg",
+    "output": "/optimized/covers/ev-charger-product-detail.webp",
+    "role": "cover",
+    "before": 676561,
+    "after": 105760
+  },
+  {
+    "source": "/portfolio/organized/ev-charger-product-detail/image-01.jpg",
+    "output": "/optimized/projects/ev-charger-product-detail/image-02.webp",
+    "role": "detail",
+    "before": 5062677,
+    "after": 50076
+  },
+  {
+    "source": "/portfolio/organized/pax-gaming-sale/cover.png",
+    "output": "/optimized/covers/pax-gaming-sale.webp",
+    "role": "cover",
+    "before": 551013,
+    "after": 140860
+  },
+  {
+    "source": "/portfolio/organized/pax-gaming-sale/image-03.jpg",
+    "output": "/optimized/projects/pax-gaming-sale/image-04.webp",
+    "role": "detail",
+    "before": 352546,
+    "after": 67728
+  },
+  {
+    "source": "/portfolio/organized/pax-gaming-sale/image-01.jpg",
+    "output": "/optimized/projects/pax-gaming-sale/image-02.webp",
+    "role": "detail",
+    "before": 402031,
+    "after": 71986
+  },
+  {
+    "source": "/portfolio/organized/pax-gaming-sale/image-02.jpg",
+    "output": "/optimized/projects/pax-gaming-sale/image-03.webp",
+    "role": "detail",
+    "before": 4713916,
+    "after": 151312
+  },
+  {
+    "source": "/portfolio/organized/umart-retail-campaign-collection/cover.jpg",
+    "output": "/optimized/covers/umart-retail-campaign-collection.webp",
+    "role": "cover",
+    "before": 1105869,
+    "after": 169758
+  },
+  {
+    "source": "/portfolio/organized/umart-retail-campaign-collection/image-01.jpg",
+    "output": "/optimized/projects/umart-retail-campaign-collection/image-02.webp",
+    "role": "detail",
+    "before": 421535,
+    "after": 79102
+  },
+  {
+    "source": "/portfolio/organized/umart-retail-campaign-collection/image-03.jpg",
+    "output": "/optimized/projects/umart-retail-campaign-collection/image-04.webp",
+    "role": "detail",
+    "before": 753755,
+    "after": 86756
+  },
+  {
+    "source": "/portfolio/organized/umart-retail-campaign-collection/image-04.png",
+    "output": "/optimized/projects/umart-retail-campaign-collection/image-05.webp",
+    "role": "detail",
+    "before": 1146060,
+    "after": 108722
+  },
+  {
+    "source": "/portfolio/organized/umart-retail-campaign-collection/image-02.jpg",
+    "output": "/optimized/projects/umart-retail-campaign-collection/image-03.webp",
+    "role": "detail",
+    "before": 757208,
+    "after": 143024
+  },
+  {
+    "source": "/portfolio/uploads/real-estate-agent-app/1784879356020----ui-cover.png",
+    "output": "/optimized/covers/real-estate-agent-app.webp",
+    "role": "cover",
+    "before": 1815196,
+    "after": 131308
+  },
+  {
+    "source": "/portfolio/organized/real-estate-agent-app/image-01.jpg",
+    "output": "/optimized/projects/real-estate-agent-app/image-01.webp",
+    "role": "detail",
+    "before": 1342897,
+    "after": 202022
+  },
+  {
+    "source": "/portfolio/organized/mothers-day-campaign/cover.jpg",
+    "output": "/optimized/covers/mothers-day-campaign.webp",
+    "role": "cover",
+    "before": 757646,
+    "after": 93836
+  },
+  {
+    "source": "/portfolio/organized/mothers-day-campaign/image-02.jpg",
+    "output": "/optimized/projects/mothers-day-campaign/image-03.webp",
+    "role": "detail",
+    "before": 293206,
+    "after": 43840
+  },
+  {
+    "source": "/portfolio/organized/mothers-day-campaign/image-01.jpg",
+    "output": "/optimized/projects/mothers-day-campaign/image-02.webp",
+    "role": "detail",
+    "before": 497116,
+    "after": 68894
+  },
+  {
+    "source": "/portfolio/organized/mothers-day-campaign/image-03.jpg",
+    "output": "/optimized/projects/mothers-day-campaign/image-04.webp",
+    "role": "detail",
+    "before": 3700215,
+    "after": 174934
+  },
+  {
+    "source": "/portfolio/organized/retail-price-label-system/cover.jpg",
+    "output": "/optimized/covers/retail-price-label-system.webp",
+    "role": "cover",
+    "before": 1720472,
+    "after": 108620
+  },
+  {
+    "source": "/portfolio/organized/retail-price-label-system/image-01.jpg",
+    "output": "/optimized/projects/retail-price-label-system/image-02.webp",
+    "role": "detail",
+    "before": 1008354,
+    "after": 44984
+  },
+  {
+    "source": "/portfolio/organized/retail-price-label-system/image-04.jpg",
+    "output": "/optimized/projects/retail-price-label-system/image-05.webp",
+    "role": "detail",
+    "before": 1176534,
+    "after": 90840
+  },
+  {
+    "source": "/portfolio/organized/retail-price-label-system/image-02.jpg",
+    "output": "/optimized/projects/retail-price-label-system/image-03.webp",
+    "role": "detail",
+    "before": 1189676,
+    "after": 75520
+  },
+  {
+    "source": "/portfolio/organized/retail-price-label-system/image-03.jpg",
+    "output": "/optimized/projects/retail-price-label-system/image-04.webp",
+    "role": "detail",
+    "before": 1249184,
+    "after": 115946
+  },
+  {
+    "source": "/portfolio/organized/retail-price-label-system/image-07.jpg",
+    "output": "/optimized/projects/retail-price-label-system/image-08.webp",
+    "role": "detail",
+    "before": 1035390,
+    "after": 59728
+  },
+  {
+    "source": "/portfolio/organized/retail-price-label-system/image-08.jpg",
+    "output": "/optimized/projects/retail-price-label-system/image-09.webp",
+    "role": "detail",
+    "before": 1028530,
+    "after": 62962
+  },
+  {
+    "source": "/portfolio/organized/retail-price-label-system/image-06.jpg",
+    "output": "/optimized/projects/retail-price-label-system/image-07.webp",
+    "role": "detail",
+    "before": 1176925,
+    "after": 92174
+  },
+  {
+    "source": "/portfolio/organized/retail-price-label-system/image-05.jpg",
+    "output": "/optimized/projects/retail-price-label-system/image-06.webp",
+    "role": "detail",
+    "before": 1323212,
+    "after": 123438
+  },
+  {
+    "source": "/portfolio/organized/retail-price-label-system/image-10.jpg",
+    "output": "/optimized/projects/retail-price-label-system/image-11.webp",
+    "role": "detail",
+    "before": 1027242,
+    "after": 41326
+  },
+  {
+    "source": "/portfolio/organized/retail-price-label-system/image-11.jpg",
+    "output": "/optimized/projects/retail-price-label-system/image-12.webp",
+    "role": "detail",
+    "before": 1233104,
+    "after": 95156
+  },
+  {
+    "source": "/portfolio/organized/retail-price-label-system/image-09.jpg",
+    "output": "/optimized/projects/retail-price-label-system/image-10.webp",
+    "role": "detail",
+    "before": 1259544,
+    "after": 126482
+  },
+  {
+    "source": "/portfolio/organized/boxing-day-campaign/cover.jpg",
+    "output": "/optimized/covers/boxing-day-campaign.webp",
+    "role": "cover",
+    "before": 703479,
+    "after": 113762
+  },
+  {
+    "source": "/portfolio/organized/boxing-day-campaign/image-02.jpg",
+    "output": "/optimized/projects/boxing-day-campaign/image-03.webp",
+    "role": "detail",
+    "before": 278476,
+    "after": 46320
+  },
+  {
+    "source": "/portfolio/organized/boxing-day-campaign/image-01.jpg",
+    "output": "/optimized/projects/boxing-day-campaign/image-02.webp",
+    "role": "detail",
+    "before": 500899,
+    "after": 78906
+  },
+  {
+    "source": "/portfolio/organized/boxing-day-campaign/image-04.jpg",
+    "output": "/optimized/projects/boxing-day-campaign/image-05.webp",
+    "role": "detail",
+    "before": 5834042,
+    "after": 165728
+  },
+  {
+    "source": "/portfolio/organized/boxing-day-campaign/image-03.png",
+    "output": "/optimized/projects/boxing-day-campaign/image-04.webp",
+    "role": "detail",
+    "before": 2056480,
+    "after": 216484
+  },
+  {
+    "source": "/portfolio/organized/g216-road-trip-film/cover.jpg",
+    "output": "/optimized/covers/g216-road-trip-film.webp",
+    "role": "cover",
+    "before": 492168,
+    "after": 61978
+  },
+  {
+    "source": "/portfolio/organized/christmas-sale-campaign/cover.jpg",
+    "output": "/optimized/covers/christmas-sale-campaign.webp",
+    "role": "cover",
+    "before": 865613,
+    "after": 150188
+  },
+  {
+    "source": "/portfolio/organized/christmas-sale-campaign/image-01.jpg",
+    "output": "/optimized/projects/christmas-sale-campaign/image-02.webp",
+    "role": "detail",
+    "before": 373375,
+    "after": 66186
+  },
+  {
+    "source": "/portfolio/organized/christmas-sale-campaign/image-02.jpg",
+    "output": "/optimized/projects/christmas-sale-campaign/image-03.webp",
+    "role": "detail",
+    "before": 430032,
+    "after": 75494
+  },
+  {
+    "source": "/portfolio/organized/christmas-sale-campaign/image-04.jpg",
+    "output": "/optimized/projects/christmas-sale-campaign/image-05.webp",
+    "role": "detail",
+    "before": 3914154,
+    "after": 182386
+  },
+  {
+    "source": "/portfolio/organized/christmas-sale-campaign/image-03.png",
+    "output": "/optimized/projects/christmas-sale-campaign/image-04.webp",
+    "role": "detail",
+    "before": 1329598,
+    "after": 161252
+  },
+  {
+    "source": "/portfolio/organized/msi-gpu-giveaway/cover.jpg",
+    "output": "/optimized/covers/msi-gpu-giveaway.webp",
+    "role": "cover",
+    "before": 499954,
+    "after": 68106
+  },
+  {
+    "source": "/portfolio/organized/msi-gpu-giveaway/image-01.jpg",
+    "output": "/optimized/projects/msi-gpu-giveaway/image-02.webp",
+    "role": "detail",
+    "before": 166634,
+    "after": 27446
+  },
+  {
+    "source": "/portfolio/organized/msi-gpu-giveaway/image-02.jpg",
+    "output": "/optimized/projects/msi-gpu-giveaway/image-03.webp",
+    "role": "detail",
+    "before": 341223,
+    "after": 51990
+  },
+  {
+    "source": "/portfolio/organized/eofy-sale-system/cover.jpg",
+    "output": "/optimized/covers/eofy-sale-system.webp",
+    "role": "cover",
+    "before": 845074,
+    "after": 129982
+  },
+  {
+    "source": "/portfolio/organized/eofy-sale-system/image-01.jpg",
+    "output": "/optimized/projects/eofy-sale-system/image-02.webp",
+    "role": "detail",
+    "before": 484324,
+    "after": 77940
+  },
+  {
+    "source": "/portfolio/organized/eofy-sale-system/image-02.jpg",
+    "output": "/optimized/projects/eofy-sale-system/image-03.webp",
+    "role": "detail",
+    "before": 697417,
+    "after": 109308
+  },
+  {
+    "source": "/portfolio/organized/eofy-sale-system/image-04.jpg",
+    "output": "/optimized/projects/eofy-sale-system/image-05.webp",
+    "role": "detail",
+    "before": 721619,
+    "after": 114354
+  },
+  {
+    "source": "/portfolio/organized/eofy-sale-system/image-03.jpg",
+    "output": "/optimized/projects/eofy-sale-system/image-04.webp",
+    "role": "detail",
+    "before": 784770,
+    "after": 130654
+  },
+  {
+    "source": "/portfolio/organized/eofy-sale-system/image-05.jpg",
+    "output": "/optimized/projects/eofy-sale-system/image-06.webp",
+    "role": "detail",
+    "before": 694347,
+    "after": 108950
+  },
+  {
+    "source": "/portfolio/organized/event-poster-collection/cover.jpg",
+    "output": "/optimized/covers/event-poster-collection.webp",
+    "role": "cover",
+    "before": 1726461,
+    "after": 78866
+  },
+  {
+    "source": "/portfolio/organized/event-poster-collection/image-03.jpg",
+    "output": "/optimized/projects/event-poster-collection/image-04.webp",
+    "role": "detail",
+    "before": 1896798,
+    "after": 113802
+  },
+  {
+    "source": "/portfolio/organized/event-poster-collection/image-05.jpg",
+    "output": "/optimized/projects/event-poster-collection/image-06.webp",
+    "role": "detail",
+    "before": 808316,
+    "after": 113836
+  },
+  {
+    "source": "/portfolio/organized/event-poster-collection/image-02.jpg",
+    "output": "/optimized/projects/event-poster-collection/image-03.webp",
+    "role": "detail",
+    "before": 1043787,
+    "after": 157974
+  },
+  {
+    "source": "/portfolio/organized/event-poster-collection/image-01.jpg",
+    "output": "/optimized/projects/event-poster-collection/image-02.webp",
+    "role": "detail",
+    "before": 3646742,
+    "after": 263594
+  },
+  {
+    "source": "/portfolio/organized/event-poster-collection/image-04.jpg",
+    "output": "/optimized/projects/event-poster-collection/image-05.webp",
+    "role": "detail",
+    "before": 7086758,
+    "after": 478360
+  },
+  {
+    "source": "/portfolio/organized/samsung-odyssey-monitor-campaign/cover.jpg",
+    "output": "/optimized/covers/samsung-odyssey-monitor-campaign.webp",
+    "role": "cover",
+    "before": 684050,
+    "after": 102050
+  },
+  {
+    "source": "/portfolio/organized/samsung-odyssey-monitor-campaign/image-01.jpg",
+    "output": "/optimized/projects/samsung-odyssey-monitor-campaign/image-02.webp",
+    "role": "detail",
+    "before": 621037,
+    "after": 121916
+  },
+  {
+    "source": "/portfolio/organized/samsung-odyssey-monitor-campaign/image-02.jpg",
+    "output": "/optimized/projects/samsung-odyssey-monitor-campaign/image-03.webp",
+    "role": "detail",
+    "before": 796604,
+    "after": 120804
+  },
+  {
+    "source": "/portfolio/organized/samsung-odyssey-monitor-campaign/image-04.jpg",
+    "output": "/optimized/projects/samsung-odyssey-monitor-campaign/image-05.webp",
+    "role": "detail",
+    "before": 796807,
+    "after": 119434
+  },
+  {
+    "source": "/portfolio/organized/samsung-odyssey-monitor-campaign/image-03.jpg",
+    "output": "/optimized/projects/samsung-odyssey-monitor-campaign/image-04.webp",
+    "role": "detail",
+    "before": 748936,
+    "after": 124338
+  },
+  {
+    "source": "/portfolio/organized/samsung-odyssey-monitor-campaign/image-05.jpg",
+    "output": "/optimized/projects/samsung-odyssey-monitor-campaign/image-06.webp",
+    "role": "detail",
+    "before": 592779,
+    "after": 100374
+  },
+  {
+    "source": "/portfolio/organized/event-invitation-series/cover.jpg",
+    "output": "/optimized/covers/event-invitation-series.webp",
+    "role": "cover",
+    "before": 372323,
+    "after": 39684
+  },
+  {
+    "source": "/portfolio/organized/event-invitation-series/image-01.jpg",
+    "output": "/optimized/projects/event-invitation-series/image-02.webp",
+    "role": "detail",
+    "before": 436282,
+    "after": 64642
+  },
+  {
+    "source": "/portfolio/organized/event-invitation-series/image-04.jpg",
+    "output": "/optimized/projects/event-invitation-series/image-05.webp",
+    "role": "detail",
+    "before": 30460305,
+    "after": 47076
+  },
+  {
+    "source": "/portfolio/organized/event-invitation-series/image-02.jpg",
+    "output": "/optimized/projects/event-invitation-series/image-03.webp",
+    "role": "detail",
+    "before": 559829,
+    "after": 71712
+  },
+  {
+    "source": "/portfolio/organized/event-invitation-series/image-03.jpg",
+    "output": "/optimized/projects/event-invitation-series/image-04.webp",
+    "role": "detail",
+    "before": 668018,
+    "after": 162744
+  },
+  {
+    "source": "/portfolio/uploads/gac-ev-charging-card/1784882495793---------cover.png",
+    "output": "/optimized/covers/gac-ev-charging-card.webp",
+    "role": "cover",
+    "before": 1593267,
+    "after": 53692
+  },
+  {
+    "source": "/portfolio/organized/gac-ev-charging-card/cover.jpg",
+    "output": "/optimized/projects/gac-ev-charging-card/image-01.webp",
+    "role": "detail",
+    "before": 331290,
+    "after": 46906
+  },
+  {
+    "source": "/portfolio/organized/gac-ev-charging-card/image-02.jpg",
+    "output": "/optimized/projects/gac-ev-charging-card/image-03.webp",
+    "role": "detail",
+    "before": 387986,
+    "after": 68072
+  },
+  {
+    "source": "/portfolio/organized/gac-ev-charging-card/image-01.jpg",
+    "output": "/optimized/projects/gac-ev-charging-card/image-02.webp",
+    "role": "detail",
+    "before": 495275,
+    "after": 82468
+  },
+  {
+    "source": "/portfolio/organized/edm-campaign-one/cover.jpg",
+    "output": "/optimized/covers/edm-campaign-one.webp",
+    "role": "cover",
+    "before": 775754,
+    "after": 157794
+  },
+  {
+    "source": "/portfolio/organized/edm-campaign-one/image-01.jpg",
+    "output": "/optimized/projects/edm-campaign-one/image-02.webp",
+    "role": "detail",
+    "before": 6210923,
+    "after": 84010
+  },
+  {
+    "source": "/portfolio/organized/umart-holiday-notice-system/image-02.jpg",
+    "output": "/optimized/covers/umart-holiday-notice-system.webp",
+    "role": "cover",
+    "before": 637936,
+    "after": 112872
+  },
+  {
+    "source": "/portfolio/organized/umart-holiday-notice-system/image-01.jpg",
+    "output": "/optimized/projects/umart-holiday-notice-system/image-02.webp",
+    "role": "detail",
+    "before": 362454,
+    "after": 58920
+  },
+  {
+    "source": "/portfolio/organized/umart-holiday-notice-system/image-03.jpg",
+    "output": "/optimized/projects/umart-holiday-notice-system/image-04.webp",
+    "role": "detail",
+    "before": 525937,
+    "after": 62598
+  },
+  {
+    "source": "/portfolio/organized/umart-holiday-notice-system/cover.jpg",
+    "output": "/optimized/projects/umart-holiday-notice-system/image-01.webp",
+    "role": "detail",
+    "before": 624516,
+    "after": 101472
+  },
+  {
+    "source": "/portfolio/organized/edm-campaign-three/cover.jpg",
+    "output": "/optimized/covers/edm-campaign-three.webp",
+    "role": "cover",
+    "before": 317878,
+    "after": 63356
+  },
+  {
+    "source": "/portfolio/organized/edm-campaign-three/image-01.jpg",
+    "output": "/optimized/projects/edm-campaign-three/image-02.webp",
+    "role": "detail",
+    "before": 3037524,
+    "after": 123830
+  },
+  {
+    "source": "/resume-assets/cover-space.jpg",
+    "output": "/optimized/resume-assets/cover-space.webp",
+    "role": "detail",
+    "before": 1337461,
+    "after": 147724
+  },
+  {
+    "source": "/resume-assets/content-space.jpg",
+    "output": "/optimized/resume-assets/content-space.webp",
+    "role": "detail",
+    "before": 3285276,
+    "after": 362834
+  },
+  {
+    "source": "/resume-assets/portrait-reference.jpg",
+    "output": "/optimized/resume-assets/portrait-reference.webp",
+    "role": "detail",
+    "before": 2469431,
+    "after": 339228
+  }
+]

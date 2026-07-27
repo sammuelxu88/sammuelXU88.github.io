@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-07-24T08:03:50.196Z",
+  "projects": 40,
+  "publicFiles": 479,
+  "publicBytes": 813469209,
+  "referencedFiles": 197,
+  "referencedBytes": 483070846,
+  "unreferencedFiles": 282,
+  "unreferencedBytes": 330398363,
+  "missingReferences": 0,
+  "duplicateGroups": 86,
+  "duplicateBytesPotentiallyRecoverable": 234158196
+}
