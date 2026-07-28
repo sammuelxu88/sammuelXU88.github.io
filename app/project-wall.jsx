@@ -9,7 +9,11 @@ import { featureFilters, groupedByYear, partnerFilters } from "./phantom-data";
 function PhantomLogo() {
   return (
     <Link href="/" className="phantom-logo" aria-label="Sammuel XU Portfolio home">
-      <span>Sammuel XU Portfolio</span>
+      <img
+        src="/brand/sammuel-xu-portfolio-logo.svg"
+        alt="Sammuel XU Portfolio"
+        draggable="false"
+      />
     </Link>
   );
 }
