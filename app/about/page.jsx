@@ -20,7 +20,7 @@ const capabilities = [
   "具备 AIGC 辅助创意、动态内容与视频剪辑能力，能在协作和紧凑周期中稳定推进交付。",
 ];
 
-const shuffleTitleLines = ["PORTFOLIO", "COLLECTION"];
+const shuffleTitleLines = ["PERSONAL", "RESUME"];
 const shuffleCharacters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 
 function ShuffleTitle() {
@@ -74,7 +74,7 @@ function ShuffleTitle() {
   }, []);
 
   return (
-    <h1 className="resume-shuffle-title" aria-label="PORTFOLIO COLLECTION">
+    <h1 className="resume-shuffle-title" aria-label="Personal Resume">
       {displayLines.map((line, index) => (
         <span className="resume-shuffle-line" aria-hidden="true" key={shuffleTitleLines[index]}>
           {line}
